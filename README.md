@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic webpage made using the foundations of HTML and familiarizing myself with HTML, Git, Linux Command Line & GitHub.
